@@ -1,0 +1,39 @@
+
+
+you have the following files on a unix system:
+
+/home/test/project1/plan.txt
+/home/test/project1/dates.txt
+/home/test/project1/meetings.txt
+/home/test/project1/tasks.txt
+/home/test/project2/plan.txt
+/home/test/project2/dates.txt
+/home/test/project2/meetings.txt
+/home/test/project2/tasks.txt
+/home/test/project2/revised_plan.txt
+/home/test/project2/revised_plan2.txt
+/home/test/project1/revised_plan3.txt
+/home/test/project1/revised_plan4.txt
+/home/test/project3/plan.txt
+/home/test/project3/dates.txt
+/home/test/project3/meetings.txt
+/home/test/project3/tasks.txt
+/home/test/project3/revised_plan.txt
+/home/test/project3/revised_plan4.txt
+/home/jan/project1/revised_plan4.txt
+
+your current working directory is /
+
+Tasks:
+
+1. write the commands needed to list the files for the user test in the project1 folder
+
+2. list all projects that have a revised plan (for any user)
+        (in this case, it should print "project2" and "project3")
+
+3. create a folder /home/test2/files and create 10 empty files inside it, with the
+   file names 1.txt, 2.txt, ... 10.txt
+
+
+
+

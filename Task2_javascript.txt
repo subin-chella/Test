@@ -1,0 +1,7 @@
+
+1. Replace the design with a login box, with the following requirements:
+   - it should be inside a box with a black border. The box itself should be light gray
+   - it should have three input fields, username, password and favorite color
+   - the favorite color should be a dropdown with yellow, blue and red
+   - when the favorite color is chosen, the box should change to that color. E.g. if the user
+     chooses red, the box should become red.

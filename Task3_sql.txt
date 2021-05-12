@@ -1,0 +1,22 @@
+
+Given the following tables:
+
+create table user(
+   name varchar(20),
+   email varchar(40),
+   role varchar(20));
+
+create table role(
+   name varchar(20),
+   level number(10));
+
+
+1. create a query to list all users and emails
+2. create a query to list all users and emails that have a non-existing role
+3. create a query to list all roles ordered by how many users have that role
+   (so if there are 1 'ceo', 2 'board member', 5 'manager' and 10 'developer', you should get
+
+   developer    10
+   manager      5
+   board member 2
+   ceo          1

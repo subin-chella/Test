@@ -1,0 +1,11 @@
+
+Java tasks:
+
+open the project in an IDE, and:
+
+1. Change Main so that it is runnable
+2. Write two unit tests, to test ProductionService:
+    - one test for when you have enough materials
+    - another test for when you don't have enough materials
+    test the relevant conditions
+3. update the code so that the tests passes
